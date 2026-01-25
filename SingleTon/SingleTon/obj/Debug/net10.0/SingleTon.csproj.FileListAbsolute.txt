@@ -1,0 +1,14 @@
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\bin\Debug\net10.0\SingleTon.exe
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\bin\Debug\net10.0\SingleTon.deps.json
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\bin\Debug\net10.0\SingleTon.runtimeconfig.json
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\bin\Debug\net10.0\SingleTon.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\bin\Debug\net10.0\SingleTon.pdb
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.AssemblyInfoInputs.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.AssemblyInfo.cs
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.csproj.CoreCompileInputs.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\refint\SingleTon.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.pdb
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\SingleTon.genruntimeconfig.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\SingleTon\SingleTon\obj\Debug\net10.0\ref\SingleTon.dll
