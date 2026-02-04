@@ -1,0 +1,14 @@
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\bin\Debug\net10.0\AdapterDesignPattern.exe
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\bin\Debug\net10.0\AdapterDesignPattern.deps.json
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\bin\Debug\net10.0\AdapterDesignPattern.runtimeconfig.json
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\bin\Debug\net10.0\AdapterDesignPattern.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\bin\Debug\net10.0\AdapterDesignPattern.pdb
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.AssemblyInfo.cs
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\refint\AdapterDesignPattern.dll
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.pdb
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\AdapterDesignPattern.genruntimeconfig.cache
+T:\Local Disk T_12320251354\SelfLearning\DesignPatterns\Structural\Adapter\AdapterDesignPattern\obj\Debug\net10.0\ref\AdapterDesignPattern.dll
